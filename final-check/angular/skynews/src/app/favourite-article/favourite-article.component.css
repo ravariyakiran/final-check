@@ -1,0 +1,19 @@
+.card-deck .card{
+    margin-right: 0px;
+}
+.col-display{
+    display: flex;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.favourite-unmarked{
+    font-size: 23px;
+}
+.favourite-marked{
+    color:red;
+    font-size: 23px;
+}
+
+.description{
+    font-size: 14px;
+}
