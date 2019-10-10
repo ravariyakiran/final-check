@@ -1,0 +1,27 @@
+4th Started Analysis on Data table package which is not using J Query import
+
+5th Working on Creating ngbDataTable which needs to be added with Directive to make Table as Sortable
+
+6th Finding the alternate DataTable which is having every properties like sorting and not working using J Query
+
+9th Working on Converting the JavaScript code of genieV3 drop-down values population into typescript
+
+10th Continued the JavaScript to Typescript conversion work of Drop-down values Population
+
+11th Continued the JavaScript to Typescript conversion work of Drop-down values Population +KT
+
+12th Working on Request JSON Mapping for runValidation endpoint +KT
+
+13th Working on Request JSON Mapping for the generateBIQuote endpoint +KT 
+
+16th Working on Finding issues in generateBIQuote endPoint +KT
+
+17th Continued Working on Finding issues in generateBIQuote end Point +KT
+
+18th Working on Building the Angular JS Genie Front End Project +KT
+
+19th Working  on Building the Maven Genie Back End Project +KT
+
+20th KT
+
+23rd Working on Fixing the Genie V4  Build Issues
